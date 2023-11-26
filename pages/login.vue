@@ -15,7 +15,7 @@ const signInWithOtp = async () => {
 <template>
   <div>
     <button @click="signInWithOtp">
-      Sign In with E-Mail
+      Sign In with E-Mails
     </button>
     <input
       v-model="email"
