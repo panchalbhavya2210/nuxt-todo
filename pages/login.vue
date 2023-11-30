@@ -11,6 +11,10 @@ const email = ref('')
 //   })
 //   if (error) console.log(error)
 // }
+
+function signInWithOtp() {
+    alert(1)
+}
 </script>
 <template>
   <div>
